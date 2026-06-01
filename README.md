@@ -2,7 +2,7 @@
 
 ## 🚀 CSE Student | Full Stack Developer
 
-<img align="right" alt="coding" width="300" height="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 * 🌱 Currently learning **Advanced MERN Stack**
