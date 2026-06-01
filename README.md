@@ -38,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
 <img src="https://skillicons.dev/icons?i=express" height="50"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-<img src="https://skillicons.dev/icons?i=oraclesql" height="50"/>
+<!-- <img src="https://skillicons.dev/icons?i=oraclesql" height="50"/> -->
 <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
 <img src="https://skillicons.dev/icons?i=js" height="50"/>
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
