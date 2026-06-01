@@ -5,9 +5,13 @@
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🌱 Currently learning **Advanced MERN Stack**
+  
 * 🎯 Preparing for **JLPT N3**
+  
 * 💡 Interested in **Web Development**
+  
 * 💬 Ask me about **React, Node.js, MongoDB, TailwindCSS, DSA**
+  
 * ⚡ Fun fact: I enjoy building practical and real life oriented projects
 
 ---
