@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kazi Salman Ali
 
-### 🚀 CSE Student | Full Stack Developer
+## 🚀 CSE Student | Full Stack Developer
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
